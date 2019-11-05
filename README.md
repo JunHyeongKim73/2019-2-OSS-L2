@@ -1,26 +1,21 @@
-Fresh is a free blog template for Jekyll
-=============================
+﻿2019-2 SKKU Opensource Software Team2
+===============
 
-![](assets/img/fresh.jpg)
+# Description
 
-# Demo
+## ProJect Name
 
-![GIF](assets/img/fresh.gif)
+1. A
+2. B
+3. C
 
-View this jekyll theme in action [here](http://artemsheludko.pw/fresh/)
+## Members
 
-Integrations
-  - [Google Fonts](https://fonts.google.com/)
-  - [Disqus](https://disqus.com/)
-  - [Font Awesome](http://fontawesome.io/)
-  - Social media links
+* [강민경](https://seunghoon00.github.io/static_page)
+* [김준형](https://seunghoon00.github.io/static_page)
+* [이승훈](https://seunghoon00.github.io/static_page)
+* [전예림](https://seunghoon00.github.io/static_page)
+* [조하영](https://wh28533.github.io/static_page/)
 
-# How to Use
 
-  For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details,
-  or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
-  and [creating pages](https://jekyllrb.com/docs/pages/).
-
-## License
-
-GNU General Public License v3.0
+Static Webpage url : [https://19-2-skku-oss.github.io/2019-2-OSS-L2](https://19-2-skku-oss.github.io/2019-2-OSS-L2/)
