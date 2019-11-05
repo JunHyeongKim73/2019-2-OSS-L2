@@ -12,7 +12,7 @@
 ## Members
 
 * [강민경](https://seunghoon00.github.io/static_page)
-* [김준형](https://seunghoon00.github.io/static_page)
+* [김준형](https://junhyeongkim73.github.io/static_page)
 * [이승훈](https://seunghoon00.github.io/static_page)
 * [전예림](https://seunghoon00.github.io/static_page)
 * [조하영](https://wh28533.github.io/static_page/)
