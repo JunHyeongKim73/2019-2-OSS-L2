@@ -6,4 +6,6 @@ img: javaFX_logo.jpg
 description: Team2 of 2019 2nd semester OSS
 ---
 
-abcdef
+We are Team2 of 2019 2nd semester OSS class in SKK univ.
+
+Planning on developing based on the opensource 'JavaFx'
