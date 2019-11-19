@@ -3,10 +3,19 @@
 
 # Description
 
-## JavaFX
+## FashioNet
 
-1. Simple Chatting program
-2. Adding more scale such as bots
+### status
+
+Not-working, not maintained and out-dated
+
+### Our plans
+
+1. Matching the versions
+2. Documenting for opensource users
+3. Making Datasets
+4. Fixing Grammer
+
 
 ## Members
 
