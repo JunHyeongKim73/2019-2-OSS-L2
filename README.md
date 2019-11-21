@@ -5,16 +5,20 @@
 
 ## FashioNet
 
-### status
+### About FashioNet
 
-Not-working, not maintained and out-dated
+FashioNet originated from [FashionNET](https://github.com/PlabanM1/FashionNet) is a fashion recommendation system capable of learning a person’s clothing style and preferences by extracting the a variety of attributes from his/her clothing images. These attributes are then fed to a similarity model to retrieve most closest similar images as recommendations.
 
-### Our plans
+Even though it was an interesting project, the project has not been updated from 2017. There were many issue calls by different users but none has been answered since the author himeself has been unactive from 2017. The versions used for libraries weren't stated, datasets weren't provided and the code itself was outdated.
 
-1. Matching the versions
+### FashioNet ver.2
+
+We are willing to make a new verison of FashioNet by
+
+1. Fixing and stating versions of libraries needed
 2. Documenting for opensource users
 3. Making Datasets
-4. Fixing Grammer
+4. Fixing and renewing the code
 
 
 ## Members
