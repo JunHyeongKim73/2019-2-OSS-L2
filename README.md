@@ -1,9 +1,7 @@
 ﻿FashioNet ver.2
 ===============
 
-# Description
-
-## FashioNet
+## Description
 
 ### About FashioNet
 
