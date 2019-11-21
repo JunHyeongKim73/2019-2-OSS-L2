@@ -1,4 +1,4 @@
-﻿2019-2 SKKU Opensource Software Team2
+﻿FashioNet ver.2
 ===============
 
 # Description
