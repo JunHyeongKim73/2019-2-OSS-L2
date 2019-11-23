@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "About uss"
+date:   2019-11-05 19:10:15
+img: javaFX_logo.jpg
+description: Team2 of 2019 2nd semester OSS
+---
+
+We are Team2 of 2019 2nd semester OSS class in SKK univ.
+
+Planning on developing based on the opensource 'JavaFx'
