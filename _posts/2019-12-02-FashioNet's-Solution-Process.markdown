@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "FashioNet's Solution Process"
-date:   2019-11-22 22:00:00
+date:   2019-12-06 22:00:00
 description: new version of FashioNet that we are going to create.
 ---
 
