@@ -5,7 +5,7 @@ date:   2019-12-06 22:00:00
 description: New version of FashioNet that we are going to create.
 ---
 
-## Mew version of FashioNet that we are going to create.
+## New version of FashioNet that we are going to create.
 
 We are willing to make a new verison of FashioNet by  
 
