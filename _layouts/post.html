@@ -11,6 +11,7 @@ layout: default
       {% if page.img %}
       <img class="page-img" src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
       {% endif %}
+      <div class="page-description" style="font-weight: 200;"></div>
       {{page.content | markdownify}}
     </div>
     {% include disqus.html %}
