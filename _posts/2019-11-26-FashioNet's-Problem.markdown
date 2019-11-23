@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "FashioNet's Problems"
-date:   2019-11-22 22:00:00
+date:   2019-11-26 22:00:00
 description: What is the problem with FashioNet?
 ---
 

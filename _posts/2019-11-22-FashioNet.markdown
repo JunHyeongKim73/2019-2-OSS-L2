@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "FashioNet"
-date:   2019-11-21 22:00:00
+date:   2019-11-22 22:00:00
 description: What is FashioNet?
 ---
 
