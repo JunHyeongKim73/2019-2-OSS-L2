@@ -21,7 +21,7 @@ We are willing to make a new verison of FashioNet by
 #### Libraries
 
 |Libraries & Dependancies|Version|
-|---|:---:|
+|---|---|
 |Python|3.x|
 |Tensorflow|1.13.1|
 |Keras|2.2.4|
