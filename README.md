@@ -18,6 +18,13 @@ We are willing to make a new verison of FashioNet by
 3. Making Datasets
 4. Fixing and renewing the code
 
+#### Libraries
+
+|Libraries|Version|
+|Python|3.x|
+|Tensorflow|1.13.1|
+|Keras|2.2.4|
+
 
 ## Members
 
