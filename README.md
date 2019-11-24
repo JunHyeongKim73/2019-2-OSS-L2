@@ -20,7 +20,7 @@ We are willing to make a new verison of FashioNet by
 
 #### Libraries
 
-|Libraries|Version|
+|Libraries & Dependancies|Version|
 |---|:---:|
 |Python|3.x|
 |Tensorflow|1.13.1|
