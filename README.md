@@ -13,7 +13,7 @@ Even though it was an interesting project, the project has not been updated sinc
 
 We are willing to make a new verison of FashioNet by
 
-1. Fixing and stating versions of libraries needed
+1. Stating versions of libraries needed and fixing the code accordingly
 2. Documenting for opensource users
 3. Making Datasets
 4. Fixing and renewing the code
