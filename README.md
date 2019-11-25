@@ -29,7 +29,7 @@ We are willing to make a new verison of FashioNet by
 
 #### Dataset
 
-The dataset that we used originate form [Deep Fashion Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html). However we had to make our own classifications and categorizations. You can download the full dataset that we used from [here](url).
+The dataset that we used originate form [Deep Fashion Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html). However we had to make our own classifications and categorizations. You can download the full dataset that we used from [here](https://drive.google.com/open?id=1Dxa82hVPExqtpfyZ6gHZrnS6080frMMk).
 
 ## Members
 
