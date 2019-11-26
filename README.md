@@ -5,19 +5,31 @@
 
 ### About FashioNet
 
-FashioNet originated from [FashioNet](https://github.com/PlabanM1/FashionNet) is a fashion recommendation system capable of learning a person’s clothing style and preferences by extracting the a variety of attributes from his/her clothing images. These attributes are then fed to a similarity model to retrieve most closest similar images as recommendations.
+FashioNet ver.2 originated from [FashioNet](https://github.com/PlabanM1/FashionNet) is a fashion recommendation system capable of learning a person’s clothing style and preferences by extracting the a variety of attributes from his/her clothing images. These attributes are then fed to a similarity model to retrieve most closest similar images as recommendations.
 
-Even though it was an interesting project, the project has not been updated since 2017. There were many issue calls by different users concering FashioNet malfunctioning but none has been answered since the author himeself has been unactive from 2017. The versions used for libraries weren't stated, datasets weren't provided and the code itself was outdated.
+Even though it was an interesting project, the project has not been updated since 2017. There were many issue calls by different users concering FashioNet malfunctioning but none has been answered since the author himeself hasn't been active from 2017. The versions for libraries and dependancies weren't stated, datasets weren't provided and the code itself was outdated.
 
 ### FashioNet ver.2
 
 We are willing to make a new verison of FashioNet by
 
-1. Fixing and stating versions of libraries needed
+1. Stating versions of libraries needed and fixing the code accordingly
 2. Documenting for opensource users
 3. Making Datasets
 4. Fixing and renewing the code
 
+#### Libraries
+
+|Libraries & Dependancies|Version|
+|---|---|
+|Python|3.x|
+|Tensorflow|1.13.1|
+|Keras|2.2.4|
+|CUDA|10.0|
+
+#### Dataset
+
+The dataset that we used originate form [Deep Fashion Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html). However we had to make our own classifications and categorizations. You can download the full dataset that we used from [here](https://drive.google.com/open?id=1Dxa82hVPExqtpfyZ6gHZrnS6080frMMk).
 
 ## Members
 
