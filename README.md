@@ -21,7 +21,7 @@ We are willing to make a new verison of FashioNet by
 #### Libraries
 
 |Python|Tensorflow|Keras|CUDA|cuDNN|
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 |3.x|1.13.1|2.2.4|10.0|7.5|
 
 #### Dataset
