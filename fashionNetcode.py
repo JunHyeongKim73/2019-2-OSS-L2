@@ -62,4 +62,35 @@
     "config.gpu_options.allow_growth = True\n",
     "\n",
     "sess = tf.Session(config=config)"
-   ]	
+   ]
+ },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Declaring the no of classes for the category\n",
+    "nb_classes = 5\n",
+    "class_name = {\n",
+    "    \n",
+    "    0: 'Chiffon',\n",
+    "    1: 'Cotton',\n",
+    "    2: 'Crochet',\n",
+    "    3: 'Denim',\n",
+    "    4: 'Wool'\n",
+    "    \n",
+    "}"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def show_sample(X, y, prediction=-1):\n",
+    "    im = X\n",
+    "    plt.imshow(im)\n",
+    "    if prediction >= 0:\n",
+    "        plt.title(\"Class = %s, Predict = %s\" % (class_name[y], class_name[prediction]))\n",
